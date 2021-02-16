@@ -16,9 +16,9 @@ use Illuminate\Support\Facades\Route;
 Route::get('/', function () {
     return view('layouts/template');
 });
-Route::get('/activos', function () {
+Route::get('activos', function () {
     return view('/activos/index');
 });
-Route::get('/activos/create', function () {
+Route::get('activos/create', function () {
     return view('/activos/create');
 });

@@ -2,7 +2,7 @@
     <div class="position-sticky pt-3">
         <ul class="nav flex-column">
             <li class="nav-item">
-                <a class="nav-link " href="#">
+                <a class="nav-link " href="/">
                     <span>
                         <i class="btn fas fa-home" style="width: 45px"></i>
                     </span>
@@ -10,7 +10,7 @@
                 </a>
             </li>
             <li class="nav-item">
-                <a class="nav-link " href="#">
+                <a class="nav-link " href="/activos">
                     <span>
                         <i class="btn fas fa-folder-open" style="width: 45px"></i>
                     </span>
@@ -18,7 +18,7 @@
                 </a>
             </li>
             <li class="nav-item ">
-                <a class="nav-link" href="#">
+                <a class="nav-link" href="/activos/create">
                     <span>
                         <i class="btn fas fa-align-left" style="width: 45px"></i>
                     </span>
